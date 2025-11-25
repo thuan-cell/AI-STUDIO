@@ -1,0 +1,7 @@
+{
+  "name": "v8.4 update ",
+  "description": "thêm key",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
